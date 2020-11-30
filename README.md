@@ -1,5 +1,5 @@
 # LR-P
-Prerequisites:
-1.python3
-2.torch
+Prerequisites:\n
+1.python3\n
+2.torch\n
 3.random
